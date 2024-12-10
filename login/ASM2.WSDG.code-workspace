@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../../../../xampp/htdocs/ASM_SDLC"
+		},
+		{
+			"path": "../../../ASM_WDD"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ASM2.WSDG"
+	}
+}
